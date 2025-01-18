@@ -1,1 +1,2 @@
 # Innovation-Sprints
+Innovation Sprints are a fantastic way to bring together people with diverse skills and perspectives to tackle challenges and spark creativity in the NumFOCUS community. These short-term, focused efforts are all about making tangible progress on open-source scientific computing projects while building connections among contributors. Here's how I see their value and how they work:
